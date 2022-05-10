@@ -5,6 +5,7 @@ A simple data-driven approach for using jmeter to write api test
 # mock server
 Using [JSON-Server](https://github.com/typicode/json-server) to get a full fake REST API.You could also use your application APIs if you have.
 
+<pre><code>  npm i json-server </pre></code>
 Once JSON-Server installed, start the server using below command:
 <pre><code>json-server --watch db.json</pre></code>
 
