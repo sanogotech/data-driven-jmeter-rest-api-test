@@ -1,3 +1,44 @@
 {
-  "shoes": []
+  "shoes": [
+    {
+      "title": "new shoe1",
+      "author": "Tompson Li",
+      "id": 2
+    },
+    {
+      "title": "new shoe1",
+      "author": "Tompson Li",
+      "id": 3
+    },
+    {
+      "title": "new shoe1",
+      "author": "Tompson Li",
+      "id": 4
+    },
+    {
+      "title": "new shoe1",
+      "author": "Tompson Li",
+      "id": 5
+    },
+    {
+      "title": "new shoe1",
+      "author": "Tompson Li",
+      "id": 6
+    },
+    {
+      "title": "new shoe1",
+      "author": "Tompson Li",
+      "id": 7
+    },
+    {
+      "title": "new shoe1",
+      "author": "Tompson Li",
+      "id": 8
+    },
+    {
+      "title": "new shoe1",
+      "author": "Tompson Li",
+      "id": 9
+    }
+  ]
 }
