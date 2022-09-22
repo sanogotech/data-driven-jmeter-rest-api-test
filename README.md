@@ -2,6 +2,10 @@
 # data-driven-jmeter-rest-api-test
 A simple data-driven approach for using jmeter to write api test
 
+
+## JMeter Testtrecorder
+- https://jmeter.apache.org/usermanual/jmeter_proxy_step_by_step.html
+
 # mock server
 Using [JSON-Server](https://github.com/typicode/json-server) to get a full fake REST API.You could also use your application APIs if you have.
 
