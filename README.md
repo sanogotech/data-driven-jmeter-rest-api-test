@@ -6,6 +6,13 @@ A simple data-driven approach for using jmeter to write api test
 ## JMeter Testtrecorder
 - https://jmeter.apache.org/usermanual/jmeter_proxy_step_by_step.html
 
+##  Install
+
+```
+npm install -g json-server
+```
+
+
 # mock server
 Using [JSON-Server](https://github.com/typicode/json-server) to get a full fake REST API.You could also use your application APIs if you have.
 
@@ -13,9 +20,6 @@ Using [JSON-Server](https://github.com/typicode/json-server) to get a full fake 
 Once JSON-Server installed, start the server using below command:
 <pre><code>json-server --watch db.json</pre></code>
 
-```
-npm install -g json-server
-```
 
 # test secnario in csv
 <img src="resources/data.png">
